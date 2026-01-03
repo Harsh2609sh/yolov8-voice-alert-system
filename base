@@ -1,0 +1,5 @@
+yolov8-voice-alert-system/
+│
+├── main.py
+├── requirements.txt
+├── README.md
